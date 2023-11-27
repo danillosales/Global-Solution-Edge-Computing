@@ -21,7 +21,7 @@
 <hr/>
 
 ## :warning: Problema
-o cenário atual dos cuidados médicos, a precisão diagnóstica muitas vezes é limitada pela falta de informações detalhadas e contínuas sobre a saúde dos pacientes. Isto influencia em maior tempo até chegar a um diagnóstico e consequentemente, menos eficiência em todo sistema hospitalar.
+O cenário atual dos cuidados médicos, a precisão diagnóstica muitas vezes é limitada pela falta de informações detalhadas e contínuas sobre a saúde dos pacientes. Isto influencia em maior tempo até chegar a um diagnóstico e consequentemente, menos eficiência em todo sistema hospitalar.
 
 A ausência de monitoramento em tempo real e a dificuldade em captar dados de longo prazo afetam também a capacidade de oferecer diagnósticos mais rápidos e efetivos para quadros em que é necessário analisar padrões comportamentais do paciente.
 
