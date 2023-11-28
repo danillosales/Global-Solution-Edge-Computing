@@ -62,10 +62,12 @@ A aplicação em questão simula a leitura e captação de dados vitais do pacie
 * [C++](https://pt.wikipedia.org/wiki/C%2B%2B)
   
 ## :computer:Simulador
+Para acessar o projeto no Tinkercad, basta clicar na imagem.
+
 <a href="https://www.tinkercad.com/things/8s3Vzk7ef3L-medidor-de-batimentos-cardiacos" target="_blank">
   <img src="https://github.com/danillosales/Global-Solution-Edge-Computing/blob/main/circuit.png" alt="circuit" />
 </a>
-<h6>Veja o circuito clicando na imagem e veja o vídeo explicativo clicando <a href="">aqui.</a></h6>
+<h6>Veja o circuito clicando na imagem e veja o vídeo explicativo clicando <a href="https://drive.google.com/file/d/1pS1TLpSNAV2MVhdpSQamLuWTE0gutHsg/view?usp=drive_link">aqui.</a></h6>
 
 ## :busts_in_silhouette: Membros do Grupo
 Danillo de Sales Vieira - RM552980
